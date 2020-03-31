@@ -7,7 +7,7 @@ backports-abc==0.5
 backports.functools-lru-cache==1.5
 backports.shutil-get-terminal-size==1.0.0
 backports.weakref==1.0.post1
-bleach==3.1.0
+bleach==3.1.4
 Click==7.0
 configparser==3.7.4
 cryptography==2.1.4
